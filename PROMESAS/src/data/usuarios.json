@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nombre": "Admin",
+        "apellido": "Sistema",
+        "edad": 30,
+        "correo": "admin@gmail.com",
+        "contrasena": "123456",
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 1,
+        "nombre": "Brandon",
+        "apellido": "Orellana",
+        "edad": 18,
+        "correo": "orellanabajan@gmail.com",
+        "contrasena": "123456789",
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    }
+]
